@@ -103,7 +103,7 @@ const Cart = (): JSX.Element => {
               </div>
             </td>
             <td>
-              <strong>R$ 359,80</strong>
+              <strong>{product.subtotal}</strong>
             </td>
             <td>
               <button
